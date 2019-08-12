@@ -69,5 +69,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # react-pokedex
 
 simple pokedex with react
+
 just run 
 ### `npm start`
